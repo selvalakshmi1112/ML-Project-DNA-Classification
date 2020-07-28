@@ -15,3 +15,4 @@ Building and training classification algorithms
 
 Comparing and contrasting classification algorithms
  these are the steps follwed
+ Using jupyter notebook
