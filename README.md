@@ -14,5 +14,6 @@ Building and training classification algorithms
 
 
 Comparing and contrasting classification algorithms
- these are the steps follwed
- Using jupyter notebook
+these are the steps follwed
+
+Done this Project using Jupyter notebook
